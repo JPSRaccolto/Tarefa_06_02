@@ -90,7 +90,7 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 5. Abra um Pull Request.
 
 ## 📽️ Demonstração em Vídeo
-- O vídeo de demonstração do projeto pode ser visualizado aqui: [Drive](https://drive.google.com/file/d/1MkjtriohEwbMuRA83LmvYqPfRcj-ZIEh/view?usp=drivesdk)
+- O vídeo de demonstração do projeto pode ser visualizado aqui: [Drive](https://drive.google.com/file/d/1OKjxvsKw-kHUj8Oae9fPBL7rlJ-GmjCs/view?usp=sharing)
 
 ## 💡 Considerações Finais
 Este projeto oferece uma ótima oportunidade para consolidar conhecimentos sobre modulação PWM, manipulação de hardware, e desenvolvimento com microcontroladores. Certifique-se de seguir todos os requisitos e manter um código limpo e bem comentado.
